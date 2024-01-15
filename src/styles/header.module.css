@@ -1,0 +1,21 @@
+.header {
+  margin-bottom: 25px;
+}
+
+.titles {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header h2 {
+  margin-bottom: 8px;
+  font-size: 28px;
+  line-height: 33.85px;
+}
+
+.header p {
+  font-size: 16px;
+  line-height: 18.8px;
+  opacity: 60%;
+}

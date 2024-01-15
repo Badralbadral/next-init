@@ -1,0 +1,47 @@
+.bar {
+  width: 466px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 0px 16px 0px;
+}
+
+.h2 {
+  font-size: 18px;
+  line-height: 21.47px;
+  font-weight: 600;
+}
+
+.pointDiv {
+  background-color: #f2f2f2;
+  width: 128px;
+  height: 40px;
+  border-radius: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.pointDiv button {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid rgb(213, 213, 213);
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.minus {
+  width: 11.67px;
+}
+
+.hori {
+  position: relative;
+  right: 6.8px;
+  height: 12.97px;
+}
